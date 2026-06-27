@@ -139,80 +139,11 @@ The model is evaluated using:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R² Score
+- XG Boost
 
 These metrics measure the prediction accuracy and overall performance of the regression model.
 
----
 
-## 📁 Project Structure
-
-```
-AQI-Prediction/
-│
-├── data/
-│   └── delhi-weather-aqi-2025.csv
-│
-├── notebooks/
-│   └── AQI_Prediction.ipynb
-│
-├── images/
-│   ├── correlation_heatmap.png
-│   ├── feature_importance.png
-│   ├── actual_vs_predicted.png
-│   └── residual_distribution.png
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
-
-##  Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/AQI-Prediction.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd AQI-Prediction
-```
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Jupyter Notebook or Python script.
-
----
-
-## 💡 Applications
-
-- Smart City Environmental Monitoring
-- Air Pollution Forecasting
-- Public Health Advisory Systems
-- Urban Planning
-- Environmental Research
-- Government Pollution Monitoring
-
----
-
-## 🚀 Future Enhancements
-
-- XGBoost and LightGBM implementation
-- Hyperparameter tuning
-- Time-series AQI forecasting using LSTM
-- Streamlit web application
-- Real-time AQI prediction using IoT sensor data
-- API integration for live weather and pollution data
-
----
 
 ## 📌 Results
 

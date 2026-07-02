@@ -156,8 +156,4 @@ These metrics measure the prediction accuracy and overall performance of the reg
 ---
 ##  Dataset link 
 www.kaggle.com/datasets/sohails07/delhi-weather-and-aqi-dataset-2025
-## 👩‍💻 Author
 
-**Anushka Pokhriyal**
-
-If you found this project useful, please ⭐ the repository.
